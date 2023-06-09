@@ -1,0 +1,25 @@
+site_name: Documentation Spot in
+
+nav:
+  - index.md
+  - spot.md
+  - spot-programmable.md
+  - perennite.md
+  - ethique.md
+  - utilisations.md
+  - hugo.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.superfences
+
+theme:
+  favicon: assets/favicon.png
+  font: none
+  language: fr
+  logo: assets/logo.png
+  name: material
+  palette: 
+    primary: white
