@@ -8,6 +8,6 @@ Un code QR est généré, avec son identifiant unique. Mais il ne contient pas e
 
 À la première utilisation du code, les données sont saisies pour rendre le code actif.
 
-## Exemples d'utilisation
+## Exemples d’utilisation
 
-XXX Montrer en quoi c'est pertinent :)
+XXX Montrer en quoi c’est pertinent :)
