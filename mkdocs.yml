@@ -8,6 +8,7 @@ nav:
   - ethique.md
   - utilisations.md
   - hugo.md
+  - api.md
 
 markdown_extensions:
   - admonition
