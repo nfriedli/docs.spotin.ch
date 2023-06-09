@@ -1,0 +1,1 @@
+# docs.spotin.ch
