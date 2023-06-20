@@ -34,3 +34,41 @@ La réutilisation du *template* est libre et gratuite, mais l’*association Spo
 ## Détails du modèle Hugo
 
 XXX à suivre, les infos sur le *template*: possibilités, avantages et inconvénients, etc.
+
+## Pour tester en local
+
+### Logiciels
+
+- [Hugo](https://gohugo.io/)
+- [Git](https://git-scm.com/) pour la gestion des sources
+- un bon éditeur de texte, par exemple [Visual Studio](https://code.visualstudio.com/)
+
+### Téléchargement des sources
+
+Reprise des sources par Git:
+
+    git clone https://github.com/nfriedli/strandboden.git
+
+Si c'est impossible, se rendre sur la [page Git du projet](https://github.com/nfriedli/strandboden), puis bouton «Code», puis «Download ZIP».
+
+### Installation d'Hugo
+
+Pour des tests ou pour travailler avec une version précise, placer l'exécutable dans le répertoire des sources.
+
+Validée pour ce projet: la version [Hugo 0.111.3 extended](https://github.com/gohugoio/hugo/releases/tag/v0.111.3)
+
+Pour Windows, télécharger la version: https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_extended_0.111.3_windows-amd64.zip
+
+### Utilisation locale
+
+Pour lancer un server, dans un terminal ou Power Shell:
+
+    hugo.exe server
+
+Il est alors visible dans son navigateur, à une adresse du genre (visible dans la console):
+
+    localhost:1313
+
+Pour compiler le site:
+
+    hugo.exe
