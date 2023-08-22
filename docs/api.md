@@ -1,9 +1,9 @@
 # API
 
-L’ensemble de l’application Spot in peut être géré par une API. 
+The entire Spot in platform can be managed by an API. 
 
-Elle est documentée ici: https://spotin.ch/api/
+The API is documented here: https://spotin.ch/api/
 
-## Exemples d’utilisation
+## Examples of use
 
-XXX donner des exemples d’intégrations possibles.
+XXX give examples of possible integrations.
