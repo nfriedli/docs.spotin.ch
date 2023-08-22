@@ -1,3 +1,3 @@
-# Éthique
+# Ethics
 
-XXX à suivre. Notamment les questions de cookies, de tières parties, de tracking, de statistiques, etc.
+XXX to follow. In particular the issues of cookies, third parties, tracking, statistics, etc.
