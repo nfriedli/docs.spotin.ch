@@ -1,23 +1,23 @@
-# Pérennité
+# Sustainability
 
-Spot in assure la pérénnité des redirections. C’est une nécessité pour les organisations qui souhaitent graver des codes QR qui restent identiques durant des années.
+Spot in ensures the durability of redirects. This is a must for organizations wishing to engrave QR codes that remain identical for years.
 
-Trop de codes QR sont mènent à des pages vides, des contenus modifiés ou des erreurs 404. L’*association Spot in* propose une solution qui permet d’éviter ces erreurs
+Too many QR codes lead to empty pages, changed content or 404 errors. The *association Spot in* offers a solution to avoid these errors
 
-## Pérennité de la solution
+## Durability of the solution
 
-La solution Spot in est portée par l’*association Spot in*. L’association est financée par ses utilisateurs et elle assure la longévité de sa solution.
+The Spot in solution is supported by the *association Spot in*. The association is financed by its users, and ensures the longevity of its solution.
 
-Spot in s’engage à maintenir toute redirection au moins XXX années.
+Spot in undertakes to maintain all redirections for at least XXX years.
 
-## Codes QR modifiables
+## Editable QR codes
 
-En soi, un code QR n’est jamais modifiable. Il renvoie toujours à une URL précise qui ne change jamais. L’intérêt de Spot in est d’agir en tant qu’intermédiaire. L’URL finale de redirection peut être modifiée en tout temps. Avec les avantages suivants:
+QR codes are never modifiable. It always refers to a specific URL that never changes. The advantage of Spot in is that it acts as an intermediary. The final redirection URL can be modified at any time. With the following advantages:
 
-- lorsque la structure d’un site change, les renvois sont modifiés pour arriver vers la nouvelle adresse (même quand le site ne gère pas la redirection de ses nouvelles URL)
-- il est possible de modifier un code QR à distance (pas besoin de se déplacer physiquement pour apposer un nouveau code)
-- elle est indépendant du site de destination (tous les CMS permettent des redirections, mais elles sont souvent abandonnées lors des refontes)
+- when a site's structure changes, referrals are modified to arrive at the new address (even when the site doesn't manage the redirection of its new URLs)
+- a QR code can be modified remotely (no need to physically go to the site to affix a new code)
+- it's independent of the destination site (all CMS allow redirections, but they're often abandoned during redesigns)
 
-## Identifiants uniques
+## Unique identifiers
 
-Chaque spot dispose d’un identifiant unique (*unique ID*). Même si le spot est désactivé, l’identifiant reste attribué. Ainsi, un spot abandonné ne peut jamais être remplacé par un autre spot.
+Each spot has a unique identifier (*unique ID*). Even if the spot is deactivated, the ID remains assigned. So an abandoned spot can never be replaced by another spot.
