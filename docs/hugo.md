@@ -1,74 +1,74 @@
-# Site statique avec Hugo
+# Static site with Hugo
 
-L’*association Spot in* a développement son propre modèle de site statique pour le déploiement de sites spécifiques. Elle a décidé de rendre ses sources publiques sous licence XXX. Ainsi il est possible à toute organisation de disposer d’un *template* de départ.
+The *association Spot in* developed its own static site model for the deployment of specific sites. We decided to make its sources public under the XXX license. This makes it possible for any organization to have a starting *template*.
 
-En pratique, 3 utilisations sont possibles.
+In practice, 3 use cases are possible.
 
-## Développement et maintenance tierce
+## Third-party development and maintenance
 
-L’*association Spot in* travaille avec des entreprises web spécialisées en sites statiques. Elles s’occupent du développement, de l’intégration des contenus, du déploiement et de la maintenance de sites statiques.
+The *association Spot in* works with web companies specialized in static sites. They take care of development, content integration, deployment and maintenance of static sites.
 
-La gestion complète d’un site statique est une offre de Spot in, chiffrée lors de l’établissement du devis.
+The complete management of a static site is a Spot in offer, quoted at the time of quotation.
 
-## Développement externe
+## External development
 
-Les entreprises qui collaborent avec l’*association Spot in* peuvent développer, intégrer les contenus et déployer un site statique. Elles laissent ensuite la maintenance des contenus au client.
+Companies working with the *association Spot in* can develop, integrate content and deploy a static site. They then leave content maintenance to the customer.
 
-Cette démarche demande certaines compétences au client:
+This approach requires certain skills on the part of the customer:
 
-- gestion des sources sur GitHub (en *markdown*)
-- gestion des déploiements sur sont propre FTP ou sur un CDN
+- source management on GitHub (in *markdown*)
+- management of deployments on your own FTP or on a CDN
 
 !!! note
 
-    Comme les sites statiques sont très pérennes, il est possible de ne pas modifier le contenu d’un site durant plusieurs années sans demander aucune maintenance.
+    As static sites are very durable, it's possible to leave the content of a site unchanged for several years without requiring any maintenance.
 
-La développement site statique est une offre de Spot in, chiffrée lors de l’établissement du devis.
+Static site development is a Spot in offer, and is quoted at the time of quotation.
 
-## Gestion autonome
+## Independent management
 
-Enfin, il est possible de reprendre le template Hugo proposé, de le modifier et de le gérer de manière autonome.
+Finally, you can take over the Hugo template, modify it and manage it independently.
 
-La réutilisation du *template* est libre et gratuite, mais l’*association Spot in* n’assure aucune maintenance.
+Reuse of the *template* is free of charge, but the *association Spot in* does not provide any maintenance.
 
-## Détails du modèle Hugo
+## Hugo template details
 
-XXX à suivre, les infos sur le *template*: possibilités, avantages et inconvénients, etc.
+XXX to follow, info on the *template*: possibilities, advantages and disadvantages, etc.
 
-## Pour tester en local
+## For local testing
 
-### Logiciels
+### Software
 
-- [Hugo](https://gohugo.io/)
-- [Git](https://git-scm.com/) pour la gestion des sources
-- un bon éditeur de texte, par exemple [Visual Studio](https://code.visualstudio.com/)
+- Hugo](https://gohugo.io/)
+- Git](https://git-scm.com/) for source management
+- a good text editor, e.g. [Visual Studio](https://code.visualstudio.com/)
 
-### Téléchargement des sources
+### Downloading sources
 
-Reprise des sources par Git:
+Git takes over sources:
 
     git clone https://github.com/nfriedli/strandboden.git
 
-Si c'est impossible, se rendre sur la [page Git du projet](https://github.com/nfriedli/strandboden), puis bouton «Code», puis «Download ZIP».
+If this is not possible, go to the [Git project page](https://github.com/nfriedli/strandboden), then click on "Code", then "Download ZIP".
 
-### Installation d'Hugo
+### Hugo installation
 
-Pour des tests ou pour travailler avec une version précise, placer l'exécutable dans le répertoire des sources.
+For testing purposes or to work with a specific version, place the executable in the source directory.
 
-Validée pour ce projet: la version [Hugo 0.111.3 extended](https://github.com/gohugoio/hugo/releases/tag/v0.111.3)
+Validated for this project: version [Hugo 0.111.3 extended](https://github.com/gohugoio/hugo/releases/tag/v0.111.3)
 
-Pour Windows, télécharger la version: https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_extended_0.111.3_windows-amd64.zip
+For Windows, download version: https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_extended_0.111.3_windows-amd64.zip
 
-### Utilisation locale
+### Local use
 
-Pour lancer un server, dans un terminal ou Power Shell:
+To launch a server, in a terminal or Power Shell:
 
     hugo.exe server
 
-Il est alors visible dans son navigateur, à une adresse du genre (visible dans la console):
+It is then visible in your browser, at an address such as (visible in the console):
 
     localhost:1313
 
-Pour compiler le site:
+To compile the site:
 
     hugo.exe
