@@ -1,13 +1,13 @@
-# Spot programmable
+# Programmable spots
 
-Spot in propose une solution de spot programmable.
+Spot in offers a programmable spots solution.
 
-## Fonctionnement
+## How it works
 
-Un code QR est généré, avec son identifiant unique. Mais il ne contient pas encore de contenu.
+A QR code is generated, with its own unique identifier. But it doesn't yet contain any content.
 
-À la première utilisation du code, les données sont saisies pour rendre le code actif.
+The first time the code is used, data is entered to make the code active.
 
-## Exemples d’utilisation
+## Examples of use
 
-XXX Montrer en quoi c’est pertinent :)
+XXX Show how it's relevant :)
