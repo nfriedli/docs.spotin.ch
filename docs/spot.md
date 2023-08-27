@@ -1,37 +1,37 @@
-# Définition d’un spot
+# Definition of a spot
 
-Le principe de base: un code QR unique renvoie vers une URL finale.
+The basic principle: a single QR code links to a final URL.
 
-Un spot n’est pas qu’une simple redirection d’URL, mais il reste un objet simple.
+A spot is not just a URL redirection, but a simple object.
 
 
-## ID unique
+## Unique ID
 
-Une identification unique est attribuée à un spot à sa création. Elle est générée automatiquement et n’est pas modifiable. L’unicité du code QR est assuré par l’unicité de l’ID.
+A unique ID is assigned to a spot when it is created. It is generated automatically and cannot be modified. The uniqueness of the QR code is ensured by the uniqueness of the ID.
 
 !!! note
 
-    XXX Voir aussi les remarques dans Pérennité
+    XXX See also remarks in Durability
 
-## Titre
+## Title
 
-Un titre sous forme de champ textuel. Utile quand les spots disponibles sont listés sur le site Spot in ou ailleurs. Et nécessaire pour la maintenance des spots.
+A title in the form of a text field. Useful when available spots are listed on the Spot in site or elsewhere. And necessary for spot maintenance.
 
 ## Description
 
-Un paragraphe optionnel qui permet de donner plus d’informations sur le spot. 
+An optional paragraph giving more information about the spot.
 
-## Coordonnées
+## Contact details
 
-Latitude et longitude sous forme numérique. Spot in propose de récupérer automatiquement la localisation du smartphone lors de la première saisie du spot. Les coordonnées permettent d’automatiser la création de cartes.
+Latitude and longitude in numerical form. Spot in automatically retrieves the smartphone's location when the spot is first entered. Coordinates automate map creation.
 
-## URL finale
+## Final URL
 
-C’est la réponse au scan du code QR. Toute URL valide peut être utilisée.
+This is the response to the QR code scan. Any valid URL can be used.
 
 ## Options
 
-XXX À documenter:
+XXX To be documented:
 
 - referenced
 - configured
