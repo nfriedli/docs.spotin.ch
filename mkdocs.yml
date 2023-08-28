@@ -1,13 +1,13 @@
-site_name: Documentation Spot in
+site_name: Spot in Documentation
 site_url: https://docsspotinch.netlify.app/
 
 nav:
   - index.md
   - spot.md
-  - spot-programmable.md
-  - perennite.md
-  - ethique.md
-  - utilisations.md
+  - programmable-spots.md
+  - sustainability.md
+  - ethics.md
+  - type-of-uses.md
   - hugo.md
   - api.md
 
@@ -24,7 +24,7 @@ plugins:
 theme:
   favicon: assets/favicon.png
   font: none
-  language: fr
+  language: en
   logo: assets/logo.png
   name: material
   palette: 
