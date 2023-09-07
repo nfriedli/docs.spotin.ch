@@ -36,7 +36,7 @@ From a technical point of view, any site that can be used on a smartphone can be
 
 !!! note
 
-    The *association Spot in* proposes(ra) a kit under free license to create a static site generated with Hugo. They use it for some of their projects. More info: [static site with Hugo](/hugo/)
+    The *association Spot in* proposes(ra) a kit under free license to create a static site generated with Hugo. They use it for some of their projects. More info: [static site with Hugo](hugo.md)
 
 ### Practical example
 
@@ -56,7 +56,7 @@ https://www.rjb.ch/rjb/Actualite/Region/20230527-Bienne-un-parcours-qui-allie-sp
 - creation of additional content
 - need to develop a specific site
 
-## links to external content
+## Links to external content
 
 Spot in can be used to link to content not on a domain name managed by the company.
 

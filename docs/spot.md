@@ -11,7 +11,7 @@ A unique ID is assigned to a spot when it is created. It is generated automatica
 
 !!! note
 
-    XXX See also remarks in Durability
+    XXX See also remarks in [Sustainability](sustainability.md)
 
 ## Title
 
@@ -21,7 +21,7 @@ A title in the form of a text field. Useful when available spots are listed on t
 
 An optional paragraph giving more information about the spot.
 
-## Contact details
+## GPS coordinates
 
 Latitude and longitude in numerical form. Spot in automatically retrieves the smartphone's location when the spot is first entered. Coordinates automate map creation.
 

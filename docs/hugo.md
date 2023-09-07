@@ -39,8 +39,8 @@ XXX to follow, info on the *template*: possibilities, advantages and disadvantag
 
 ### Software
 
-- Hugo](https://gohugo.io/)
-- Git](https://git-scm.com/) for source management
+- [Hugo](https://gohugo.io/)
+- [Git](https://git-scm.com/) for source management
 - a good text editor, e.g. [Visual Studio](https://code.visualstudio.com/)
 
 ### Downloading sources
